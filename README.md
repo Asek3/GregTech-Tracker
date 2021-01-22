@@ -1,2 +1,2 @@
 # GregTech-Tracker
-BugTracker
+Трекер багов и предложений для сервера GregTech проекта CubixWorld.ru.
